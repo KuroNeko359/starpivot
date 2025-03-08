@@ -15,3 +15,7 @@ project url: https://github.com/KuroNeko359/starpivot-service
 2. Using setup.sh, configure the Hadoop configration automatically.
 3. You need compile a jar package of starpivot-service, then put it in the starpivot-shell directory.
 4. Launch the starpivot-service and starpivot-panel.
+
+## Development plan
+Automatically install all of the bigdata compennents. For example, HBase, Hive, Flume, Kafka, Flink and Spark.
+Realize install all of components in web ui.
